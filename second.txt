@@ -1,0 +1,24 @@
+model
+problem
+theory
+time
+algorithm
+query
+protocol
+interface
+object
+class
+embedded
+real-time
+architecture
+component
+performance
+service
+type
+domain
+parallel
+distributed
+data
+storage
+social
+rough set

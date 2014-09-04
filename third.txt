@@ -1,0 +1,15 @@
+evaluation
+optimization
+minimization
+maximization
+management
+design
+analysis
+compression
+cryptography
+anonymization
+encryption
+monitoring
+transmission
+exploration
+process
